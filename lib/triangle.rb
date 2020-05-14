@@ -1,6 +1,6 @@
 class Triangle
   
-  intialize 
+  def intialize 
   
   def equilateral(a,b,c)
     
