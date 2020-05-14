@@ -1,7 +1,7 @@
 class Triangle
   
   def intialize(name)
-    
+    @name
   end
   
   def equilateral(a,b,c)
