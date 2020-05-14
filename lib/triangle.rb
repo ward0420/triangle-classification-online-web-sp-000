@@ -1,6 +1,8 @@
 class Triangle
   
-  def equilateral
+  def equilateral(a,b,c)
+    
+    if a = 
     
   end
 
