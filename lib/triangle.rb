@@ -2,7 +2,7 @@ class Triangle
   
   def equilateral(a,b,c)
     
-    if a = 
+    if a = b
     
   end
 
