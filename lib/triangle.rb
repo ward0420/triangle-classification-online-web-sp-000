@@ -1,5 +1,7 @@
 class Triangle
   
+  intialize 
+  
   def equilateral(a,b,c)
     
     if a = b
