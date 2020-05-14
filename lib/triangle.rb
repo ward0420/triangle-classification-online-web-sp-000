@@ -1,6 +1,8 @@
 class Triangle
   
-  attr_accessor :equilateral
+  def equilateral
+    
+  end
 
   class TriangleError < StandardError
     
